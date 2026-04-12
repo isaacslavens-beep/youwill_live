@@ -22,16 +22,6 @@ export const metadata: Metadata = {
   title: "youwill.live | Coming Soon",
   description:
     "A daily game that predicts how long you will live. Mysterious, data-driven, and coming soon.",
-  icons: {
-    icon: [
-      {
-        url: "/favicon.png",
-        type: "image/png",
-        sizes: "512x512",
-      },
-    ],
-    apple: { url: "/favicon.png", type: "image/png", sizes: "512x512" },
-  },
 };
 
 export default function RootLayout({
