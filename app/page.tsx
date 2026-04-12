@@ -31,7 +31,7 @@ export default function Home() {
           Coming Soon
         </p>
         <p className="mt-4 max-w-md text-balance text-base leading-relaxed text-zinc-400 sm:text-lg">
-          A daily game that predicts how long you will live.
+          Your choices have consequences. We do the math.
         </p>
         <div className="mt-10 w-full">
           <NotifyForm />
