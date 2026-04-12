@@ -36,10 +36,6 @@ export default function Home() {
         <div className="mt-10 w-full">
           <NotifyForm />
         </div>
-        <p className="mt-6 max-w-sm text-pretty text-xs leading-relaxed text-zinc-600">
-          Not medical advice. A playful look at habits and statistics, not a
-          diagnosis.
-        </p>
       </main>
     </div>
   );
